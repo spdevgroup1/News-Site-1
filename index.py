@@ -54,7 +54,7 @@ http-equiv="content-type">
 </html>
 '''%(books)
 
-filename = 'webbrowser.html'
+filename = 'index.html'
 
 def main(contents, filename):
     output = open(filename,"w")
